@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Krishana Yadav</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger;Always+Learning+New+Things" />
@@ -17,18 +17,16 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/krishna-yadav-86964b32a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR-HANDLE">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="http://krishana-yadav.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://medium.com/@YOUR-HANDLE">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
@@ -37,11 +35,11 @@
 
 ## 💫 About Me
 
-🔭 I’m currently working on **[Project Name]**  
-🌱 I’m currently learning **[New Tech Stack]**  
+🔭 I’m currently working on **[HIVE , LearnFlex]**  
+🌱 I’m currently learning **[Docker , Websocket]**  
 👯 I’m looking to collaborate on **Open Source Projects**  
 💬 Ask me about **React, Node.js, UI/UX Design**  
-📫 Reach me at: **your-email@example.com**  
+📫 Reach me at: **karanyadav21398@gmail.com**  
 ⚡ Fun fact: I love building things that make an impact  
 
 ---
@@ -51,7 +49,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,docker" />
 </p>
 
 ---
@@ -61,12 +59,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnayadav9793&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnayadav9793&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnayadav9793&theme=radical&hide_border=true" />
 </p>
 
 ---
