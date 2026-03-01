@@ -58,8 +58,7 @@ Scalable collaborative platform (In Progress)
 ### 🎓 LearnFlex
 Flexible learning platform using modern web stack
 
-### 🎭 Theatre Management System
-Role-based booking & management application
+
 
 ---
 
