@@ -12,8 +12,11 @@
     <a href="https://github.com/krishnayadav9793">
       <img src="https://komarev.com/ghpvc/?username=krishnayadav9793&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
+    <a href="https://codolio.com/profile/Krishnayadav">
+      <img src="https://img.shields.io/badge/Codolio-1740%2B%20Solved-FF7A00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio Solved" />
+    </a>
     <a href="https://leetcode.com/u/_krishna__yadav_/">
-      <img src="https://img.shields.io/badge/LeetCode-670%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
+      <img src="https://img.shields.io/badge/LeetCode-Rating%201692-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solved" />
     </a>
     <a href="https://github.com/krishnayadav9793">
       <img src="https://img.shields.io/badge/IIIT%20Vadodara-Computer%20Science-00C7B7?style=for-the-badge&logo=google-scholar&logoColor=white" alt="IIIT Vadodara" />
@@ -56,7 +59,7 @@ krishana@iiitv:~$ cat profile.json
     "Distributed & Real-Time Systems",
     "Scalable Full-Stack Engineering",
     "AI/ML, RAG & Vector Search",
-    "Competitive Programming & DSA"
+    "Competitive Programming (1,740+ Solved across Platforms)"
   ],
   "current_build": "DevSync (Real-Time Collaborative Cloud Development Platform)",
   "engineering_mantra": "I build software with a focus on how systems behave, not just how interfaces look.",
@@ -267,32 +270,52 @@ krishana@iiitv:~$ cat profile.json
 ### 🎯 Core Engineering Proficiencies
 
 ```
-System Design & Scalability  [██████████████████░░] 90%
 Data Structures & Algorithms [██████████████████░░] 90%
 Full-Stack Architecture      [██████████████████░░] 90%
 Real-Time & Collaborative    [█████████████████░░░] 85%
 AI / ML & RAG Integration    [██████████████░░░░░░] 70%
-Distributed Systems & DevOps [█████████████░░░░░░░] 65%
+System Design & Scalability  [█████████████░░░░░░░] 65%
+Distributed Systems & DevOps [████████████░░░░░░░░] 60%
 ```
 
 ---
 
 <span id="dsa"></span>
-## 🧠 Competitive Programming & DSA
+## 🧠 Competitive Programming & Multi-Platform Problem Solving
 
 <div align="center">
   <p>
-    <b>670+ Problems Solved on LeetCode across Algorithms & Data Structures</b>
+    <b>1,740+ Total Algorithmic Problems Solved Across Major Competitive Programming Platforms</b>
   </p>
   <p>
-    <a href="https://leetcode.com/u/_krishna__yadav_/">
-      <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <a href="https://codolio.com/profile/Krishnayadav">
+      <img src="https://img.shields.io/badge/Codolio-Portfolio_1740%2B_Solved-FF7A00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
     </a>
-    <a href="https://github.com/krishnayadav9793">
-      <img src="https://img.shields.io/badge/Algorithmic-Problem%20Solver-2ea44f?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="DSA" />
+    &nbsp;
+    <a href="https://leetcode.com/u/_krishna__yadav_/">
+      <img src="https://img.shields.io/badge/LeetCode-1692_Rating_(672_Solved)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    &nbsp;
+    <a href="https://codeforces.com/profile/krishna_yadav_">
+      <img src="https://img.shields.io/badge/Codeforces-1186_Rating_(405_Solved)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    &nbsp;
+    <a href="https://www.codechef.com/users/the_coder97">
+      <img src="https://img.shields.io/badge/CodeChef-1594_(3%E2%98%85)_(359_Solved)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
     </a>
   </p>
 </div>
+
+| Platform | Handle | Rating / Status | Problems Solved | Profile Link |
+| :--- | :--- | :---: | :---: | :---: |
+| 🟧 **Codolio** | `Krishnayadav` | **Verified Portfolio** | **1,740+ Total** | [View Codolio Profile ↗](https://codolio.com/profile/Krishnayadav) |
+| 🟡 **LeetCode** | `_krishna__yadav_` | **1692 Rating** | **672 Solved** | [View LeetCode ↗](https://leetcode.com/u/_krishna__yadav_/) |
+| 🔵 **Codeforces** | `krishna_yadav_` | **1186 Rating** | **405 Solved** | [View Codeforces ↗](https://codeforces.com/profile/krishna_yadav_) |
+| 🟤 **CodeChef** | `the_coder97` | **1594 Rating (3★)** | **359 Solved** | [View CodeChef ↗](https://www.codechef.com/users/the_coder97) |
+| 🟢 **GeeksforGeeks** | `krishnayadav9793` | **Campus Leader** | **259 Solved** | [View GfG ↗](https://www.geeksforgeeks.org/user/krishnayadav9793/) |
+| 🟣 **InterviewBit** | `krishna-yadav_850` | **Problem Solver** | **45 Solved** | [View InterviewBit ↗](https://www.interviewbit.com/profile/krishna-yadav_850) |
+
+<br/>
 
 | Domain | Focus & Techniques | Status |
 | :--- | :--- | :---: |
@@ -320,7 +343,7 @@ Distributed Systems & DevOps [█████████████░░░�
 
 - [x] **Master Full-Stack Core:** Production React/Next.js, Node.js, Express, PostgreSQL, MongoDB, JWT.
 - [x] **Deploy Real-Time Systems:** WebRTC multi-peer mesh, low-latency Socket.io events in DevSync.
-- [x] **Algorithmic Rigor:** Solved 670+ LeetCode problems (160+ Easy, 430+ Medium, 70 Hard).
+- [x] **Algorithmic Rigor:** Solved 1,740+ problems across platforms (672 LeetCode, 405 Codeforces, 359 CodeChef, 259 GfG).
 - [ ] **Distributed Systems Depth:** Raft/Paxos consensus, distributed caching with Redis Cluster, Kafka message queues.
 - [ ] **Production-Grade RAG Systems:** Multi-stage vector retrieval, re-ranking models, autonomous LLM agents.
 - [ ] **Infrastructure & Cloud:** Kubernetes orchestration, CI/CD automated deployment pipelines, observability with Prometheus/Grafana.
@@ -337,6 +360,10 @@ Distributed Systems & DevOps [█████████████░░░�
   <p align="center">
     <a href="https://github.com/krishnayadav9793">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://codolio.com/profile/Krishnayadav">
+      <img src="https://img.shields.io/badge/Codolio-FF7A00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
     </a>
     &nbsp;
     <a href="https://leetcode.com/u/_krishna__yadav_/">
